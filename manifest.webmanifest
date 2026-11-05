@@ -1,0 +1,29 @@
+{
+  "name": "Tezzie",
+  "short_name": "Tezzie",
+  "description": "Fly Tezzie, the little electric car from Planet Plug, through glowing space levels.",
+  "start_url": "play/",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#140c3f",
+  "theme_color": "#140c3f",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
